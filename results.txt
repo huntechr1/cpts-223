@@ -1,0 +1,61 @@
+ID: 3 already exists, insertion failed
+Position (9,8) already occupied, insertion failed
+Player: ID: 7 | (X,Y): (9, 3) was removed
+ID: 1 | (X,Y): (3, 2)
+ID: 2 | (X,Y): (4, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (9, 3)
+ID: 5 | (X,Y): (6, 3)
+ID: 6 | (X,Y): (8, 2)
+ID: 8 | (X,Y): (9, 8)
+---------------------
+Player: ID: 8 | (X,Y): (9, 8) was removed
+ID: 1 | (X,Y): (3, 2)
+ID: 2 | (X,Y): (4, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (9, 8)
+ID: 5 | (X,Y): (6, 3)
+ID: 6 | (X,Y): (8, 2)
+---------------------
+Error: Move location invalid
+ID: 1 | (X,Y): (3, 2)
+ID: 2 | (X,Y): (4, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (9, 8)
+ID: 5 | (X,Y): (6, 3)
+ID: 6 | (X,Y): (8, 2)
+---------------------
+ID: 1 | (X,Y): (3, 2)
+ID: 2 | (X,Y): (3, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (9, 8)
+ID: 5 | (X,Y): (6, 3)
+ID: 6 | (X,Y): (8, 2)
+---------------------
+Player: ID: 1 | (X,Y): (3, 2) was removed
+ID: 2 | (X,Y): (3, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (3, 2)
+ID: 5 | (X,Y): (6, 3)
+ID: 6 | (X,Y): (8, 2)
+---------------------
+Player: ID: 6 | (X,Y): (8, 2) was removed
+ID: 2 | (X,Y): (3, 3)
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (8, 2)
+ID: 5 | (X,Y): (6, 3)
+---------------------
+Player: ID: 2 | (X,Y): (3, 3) was removed
+ID: 3 | (X,Y): (4, 6)
+ID: 4 | (X,Y): (8, 2)
+ID: 5 | (X,Y): (3, 3)
+---------------------
+Player: ID: 3 | (X,Y): (4, 6) was removed
+ID: 4 | (X,Y): (4, 6)
+ID: 5 | (X,Y): (3, 3)
+---------------------
+ID: 4 | (X,Y): (4, 6)
+ID: 5 | (X,Y): (4, 3)
+---------------------
+Player: ID: 5 | (X,Y): (4, 3) was removed
+ID: 4 | (X,Y): (4, 3)
